@@ -1,0 +1,3 @@
+[submodule "pycloudapp"]
+	path = pycloudapp
+	url = git://github.com/originell/pycloudapp.git
