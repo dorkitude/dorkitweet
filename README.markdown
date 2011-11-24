@@ -52,10 +52,10 @@ Do this to get started:
     ./setup.py
 
 
-Requirements:
+Requirements to get started:
 
  * MongoDB running on localhost at port 27017
  * a Twitter account
  * a CloudApp account
 
- (The app will also prompt you to make your own Twitter Application.)
+(setup.py will also prompt you to make your own Twitter Application.)
