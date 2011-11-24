@@ -99,16 +99,10 @@ class Tweet(BaseModel):
         api = tweepy.API(auth)
         sent = api.update_status(self.storage["body"])
 
-        for x in dir(sent):
-            print "----"
-            print x
-            print ""
-            print getattr(sent, x)
-            print "----"
-            
-
         self.storage["sent"] = True
-        self.storage["url"] = "http://test"
+        self.storage["id"] = sent.id
+        self.storage["final_text"] = sent.text
+        self.storage["created_at"] = sent.created_at
         self.save()
 
         return self

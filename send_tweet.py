@@ -27,7 +27,7 @@ def main():
     tweet.send()
     print "\nSent!"
 
-    print "View it on the web at:  \n{}".format(tweet.storage["url"])
+    print "\n\n{}".format(tweet)
 
     #elif len(args) is 1:
         #tweet = command_line_args[0]
