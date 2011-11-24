@@ -24,6 +24,11 @@ Now, to send a tweet from my Mac, I just do this:
 
 _kickinrad_, no?
 
+FYI, here are my Alfred Extension settings:
+
+ * http://drktd.com/C5eT
+ * http://drktd.com/C4Nx
+
 
 
 Usage
