@@ -5,9 +5,25 @@ Dorkitweet
 You can use this to send tweets via the command line, with URLs optionally
 shortened by your CloudApp account.
 
-This is very powerful when combined with [Alfred](http://alfredapp.com)!
 
 (Dorkitweet is definitely a work in progress, but I hope someone finds it useful!)
+
+
+Alfred
+------
+
+Dorkitweet is very powerful when combined with [Alfred](http://alfredapp.com).
+
+In fact, Alfred is the main reason I made this thing.
+
+Now, to send a tweet from my Mac, I just do this:
+
+ 1. `command-space`
+ 2. type `tweet blah blah blah blah blah`
+ 3. press `Enter`
+
+_kickinrad_, no?
+
 
 
 Usage
