@@ -16,9 +16,9 @@ I pretty much only use Dorkitweet as a way to tweet via [Alfred](http://alfredap
 
 Now, to send a tweet from my Mac, I just do this:
 
-    1. press `command-space`
-    2. type `tweet blah blah blah blah blah`
-    3. press `Enter`
+ 1. press `command-space`
+ 2. type `tweet blah blah blah blah blah`
+ 3. press `Enter`
 
 _kickinrad_, no?
 
